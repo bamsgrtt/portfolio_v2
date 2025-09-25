@@ -6,12 +6,28 @@
     padding: 0 20px;
 }
 
+.navbar img {
+    width: 40px; /* Tambahkan ukuran untuk logo */
+    height: auto;
+}
+
 .nav-menu {
     display: flex;
     align-items: center;
     list-style: none;
     gap: 30px;
     font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-menu li {
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.nav-menu li:hover {
+    color: #B415FF; /* Efek hover */
 }
 
 .nav-connect {
@@ -22,6 +38,9 @@
     cursor: pointer;
     transition: 0.5s;
     white-space: nowrap;
+    border: none;
+    color: white;
+    font-weight: 500;
 }
 
 .nav-connect:hover {

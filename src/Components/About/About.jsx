@@ -1,12 +1,13 @@
 import React from 'react'
 import './About.css'
 import profile from '../../assets/profile_img.png'
+import theme_pattern from '../../assets/theme_pattern.svg'
 const About = () => {
   return (
     <div className='about'>
       <div className="about-title">
         <h1>About me</h1>
-        <img src="" alt="" />
+        <img src={theme_pattern} alt="" />
       </div>
       <div className="about-sections">
         <div className="about-left">
@@ -19,9 +20,9 @@ const About = () => {
             </div>
             <div className="about-skills">
                 <div className="about-skill"><p>HTML & CSS</p><hr style={{width:"50%"}} /></div>
-                <div className="about-skill"><p>React JS</p><hr style={{width:"50%"}} /></div>
-                <div className="about-skill"><p>JavaScript</p><hr style={{width:"50%"}} /></div>
-                <div className="about-skill"><p>Next JS</p><hr style={{width:"50%"}} /></div>
+                <div className="about-skill"><p>React JS</p><hr style={{width:"80%"}} /></div>
+                <div className="about-skill"><p>JavaScript</p><hr style={{width:"40%"}} /></div>
+                <div className="about-skill"><p>Next JS</p><hr style={{width:"60%"}} /></div>
             </div>
         </div>
       </div>
