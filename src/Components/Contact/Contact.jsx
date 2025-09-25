@@ -41,4 +41,4 @@ const Contact = () => {
   )
 }
 
-export default Conta
+export default Contact
