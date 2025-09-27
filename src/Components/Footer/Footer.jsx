@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="footer-top">
         <div className="footer-top-left">
           <img src="" alt="" />
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cupiditate et odio officiis ullam expedita iure laboriosam fugiat atque unde quia!</p>
+          <p>Tetap terhubung dengan saya untuk update terbaru dan peluang kolaborasi. Silakan masukkan email Anda untuk berlangganan:</p>
         </div>
         <div className="footer-top-right">
           <div className="footer-email-input">
@@ -20,12 +20,7 @@ const Footer = () => {
       </div>
       <hr />
       <div className="footer-bottom">
-        <p className="footer-bottom-left">2025 Bambang Sugiarto. All rights reserved.</p>
-        <div className="footer-bottom-right">
-          <p>Term of Services</p>
-          <p>Privacy Policy</p>
-          <p>Connect with me</p>
-        </div>
+        <p>By bamsgrtt</p>
       </div>
     </div>
   )

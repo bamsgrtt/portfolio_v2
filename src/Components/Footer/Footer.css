@@ -68,3 +68,10 @@
     border: 2px solid white;
 }
 
+.footer-bottom {
+    text-align: center;
+    font-size: 16px;
+    justify-content: center;
+    color: #ffffff;
+    margin-bottom: 2rem;
+}

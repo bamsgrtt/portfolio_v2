@@ -14,7 +14,7 @@ const Contact = () => {
       <div className="contact-section">
         <div className="contact-left">
             <h1>Let's talk</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis deleniti nostrum amet. Nesciunt, culpa quaerat iusto accusantium pariatur perspiciatis magnam.</p>
+            <p>Saya selalu terbuka untuk berdiskusi, berkolaborasi, atau sekadar berbagi pengalaman seputar teknologi dan pemrograman. Jangan ragu untuk menghubungi saya melalui kontak berikut:</p>
             <div className="contact-details">
                 <div className="contact-detail">
                     <img src={mail_icon} alt="" /> <p>bambang031106@gmail.com</p>

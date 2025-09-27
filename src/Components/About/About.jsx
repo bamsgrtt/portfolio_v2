@@ -15,8 +15,8 @@ const About = () => {
         </div>
         <div className="about-right">
             <div className="about-para">
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eos sunt porro ex, quasi cum ut fugit animi facere consequuntur cupiditate dolorum, dolore neque perferendis doloremque laudantium hic nesciunt quam libero.</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti cupiditate expedita mollitia eligendi minus nemo quos assumenda reiciendis nesciunt alias aperiam impedit id labore in, unde aspernatur accusamus amet dolores!</p>
+                <p>Halo! Saya Bambang Sugiarto, seorang mahasiswa Teknik Informatika yang sedang menapaki perjalanan di dunia teknologi. Saat ini saya fokus mempelajari dasar-dasar pemrograman, khususnya menggunakan Java dan JavaScript, serta mulai memahami konsep backend dan database.</p>
+                <p>Saya tertarik mengembangkan keterampilan lewat proyek-proyek kecil yang sederhana namun bermanfaat, seperti membuat converter file atau aplikasi praktis lain. Dengan semangat belajar dan eksplorasi, saya ingin terus berkembang dan membangun fondasi yang kuat untuk menjadi developer yang mandiri di masa depan.</p>
             </div>
             <div className="about-skills">
                 <div className="about-skill"><p>HTML & CSS</p><hr style={{width:"50%"}} /></div>
