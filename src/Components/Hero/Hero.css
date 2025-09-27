@@ -3,21 +3,22 @@
     align-items: center;
     flex-direction: column;
     gap: 35px;
-    padding: 50px 20px; /* Tambahkan padding */
+    padding: 50px 0; 
     text-align: center;
+    margin: 80px 170px;
 }
 
 .hero img {
-    margin-top: 20px; /* Kurangi margin */
-    width: 250px; /* Sesuaikan ukuran */
+    margin-top: 20px; 
+    width: 250px; 
     height: 250px;
     object-fit: cover;
-    border-radius: 50%; /* Tambahkan rounded */
+    border-radius: 50%; 
 }
 
 .hero h1 {
-    width: 90%; /* Sesuaikan width */
-    font-size: 48px; /* Responsive font size */
+    width: 100%; 
+    font-size: 60px; 
     font-weight: 600;
     line-height: 1.2;
 }
@@ -56,7 +57,7 @@
     cursor: pointer;
     border: none;
     color: white;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 600;
     transition: all 0.3s;
 }
@@ -73,7 +74,7 @@
     cursor: pointer;
     background: transparent;
     color: white;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 600;
     transition: all 0.3s;
 }
