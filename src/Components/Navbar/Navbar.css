@@ -2,7 +2,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 20px 50px;
+    margin: 20px 40px;
     padding: 0 20px;
 }
 
@@ -16,7 +16,7 @@
     align-items: center;
     list-style: none;
     gap: 30px;
-    font-size: 18px;
+    font-size: 16px;
     margin: 0;
     padding: 0;
 }
@@ -34,7 +34,7 @@
     padding: 15px 30px;
     border-radius: 50px;
     background: linear-gradient(267deg, #da7c25 0.36%, #b923e1 102.06%);
-    font-size: 18px;
+    font-size: 16px;
     cursor: pointer;
     transition: 0.5s;
     white-space: nowrap;
