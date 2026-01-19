@@ -20,7 +20,7 @@ const Footer = () => {
       </div>
       <hr />
       <div className="footer-bottom">
-        <p>By bamsgrtt</p>
+        <p>bamsgrtt</p>
       </div>
     </div>
   )

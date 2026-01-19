@@ -61,7 +61,7 @@
 }
 
 .about-para p {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 500;
     
     text-align: justify;
@@ -84,7 +84,7 @@
 
 .about-skill p{
     min-width: 150px;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 500;
 }
 
@@ -122,7 +122,7 @@
 }
 
 .about-achievement p {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 500;
 }
 

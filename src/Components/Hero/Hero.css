@@ -3,15 +3,15 @@
     align-items: center;
     flex-direction: column;
     gap: 35px;
-    padding: 50px 0; 
+    padding: 20px 0; 
     text-align: center;
-    margin: 80px 170px;
+    margin: 40px 170px;
 }
 
 .hero img {
     margin-top: 20px; 
-    width: 250px; 
-    height: 250px;
+    width: 300px; 
+    height: 300px;
     object-fit: cover;
     border-radius: 50%; 
 }
@@ -23,18 +23,19 @@
     line-height: 1.2;
 }
 
-.hero h1 span {
+span {
     background: linear-gradient(270deg, #DF8908 10%, #B415FF 100%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     display: block; /* Agar gradient terlihat baik */
+    font-size: 48px; /* Perbesar ukuran font untuk nama */
 }
 
 .hero p {
     width: 80%; /* Sesuaikan width */
     text-align: center;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 1.6; /* Perbaiki line-height */
     max-width: 600px; /* Batasi maksimal width */
 }
@@ -43,7 +44,7 @@
     display: flex;
     align-items: center;
     gap: 20px;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 500;
     margin-bottom: 50px;
     flex-wrap: wrap; /* Responsive untuk mobile */
@@ -57,7 +58,7 @@
     cursor: pointer;
     border: none;
     color: white;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 600;
     transition: all 0.3s;
 }
@@ -74,14 +75,14 @@
     cursor: pointer;
     background: transparent;
     color: white;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 600;
     transition: all 0.3s;
 }
 
 .hero-resume:hover {
     border-color: #B415FF;
-    background: rgba(180, 21, 255, 0.1);
+    background: rgba(160, 21, 255, 0.1);
     transform: translateY(-2px);
 }
 
